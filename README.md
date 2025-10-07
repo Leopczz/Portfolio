@@ -45,6 +45,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/leopczz/leopczz/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Leopczz/Leopczz/output/snake.svg" alt="Snake animation" />
+
 
 ###
